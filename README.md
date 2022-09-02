@@ -1,3 +1,3 @@
-## This is soem really good content your learning
+## Github is a very helfull tool.
 
-Github is a very helpfull tool.
+Web developers use it for kepp track of bigger projects.
